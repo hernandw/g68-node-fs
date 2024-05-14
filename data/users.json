@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "name": "Maria",
+      "lastname": "Rodriguez",
+      "email": "mariar@gmail.com",
+      "password": "1232456"
+    },
+    {
+      "name": "Juan",
+      "lastname": "Perez",
+      "email": "jaunp@gmail.com",
+      "password": "1232456"
+    },
+    {
+      "name": "Susana",
+      "lastname": "Lopez",
+      "email": "susanal@gmail.com",
+      "password": "1232456"
+    },
+    {
+      "name": "David",
+      "lastname": "Perez",
+      "email": "david@gmailc.om",
+      "password": "123456"
+    },
+    {},
+    {
+      "name": "alejNDRA",
+      "lastname": "Valencia",
+      "email": "alejandra@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

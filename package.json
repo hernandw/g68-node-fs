@@ -1,0 +1,16 @@
+{
+  "name": "clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "Williams Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
